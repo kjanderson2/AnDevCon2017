@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="materialRed">#f44336</color>
+    <color name="materialOrange">#FF9800</color>
+    <color name="materialYellow">#FFEB3B</color>
+    <color name="materialGreen">#4CAF50</color>
+    <color name="materialBlue">#2196F3</color>
+    <color name="materialIndigo">#3F51B5</color>
+    <color name="materialPurple">#673AB7</color>
+
+    <color name="darkOverlay">#48000000</color>
+</resources>

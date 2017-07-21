@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AnDevCon 2017</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
+        faucibus justo nunc, sed maximus nunc convallis quis. Ut pharetra felis non ullamcorper
+        fermentum. Quisque malesuada est ac mi vehicula fringilla. Vivamus quis enim pharetra,
+        luctus sapien at, aliquet urna. Sed ornare dignissim placerat. Vestibulum nec blandit
+        libero. Sed eu consequat nisl.
+
+        Etiam sodales elit eu elit euismod ultrices. Mauris sed nulla magna. Aliquam quis purus quis
+        enim ullamcorper imperdiet sed eu magna. Phasellus iaculis neque a luctus mollis. Quisque at
+        tortor a diam tincidunt mollis ac vitae velit. Pellentesque accumsan laoreet massa, et
+        ullamcorper velit scelerisque at. Phasellus tempor vel diam in molestie. Pellentesque et
+        finibus ex, vitae bibendum felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        In hac habitasse platea dictumst. Praesent vel augue non libero porttitor tempor nec eget
+        felis. Aliquam erat volutpat. Suspendisse quis ullamcorper risus. Nulla facilisi. Nulla
+        rhoncus, magna at eleifend fringilla, leo sem mollis tortor, vitae egestas mi metus non
+        odio. Morbi mattis nunc sit amet massa efficitur, suscipit vestibulum tellus commodo.
+
+    </string>
+</resources>
