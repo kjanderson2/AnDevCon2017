@@ -21,7 +21,7 @@
             android:layout_height="600dp"
             android:gravity="top"
             android:background="@drawable/drawer_gradient_yellow"
-            app:layout_behavior="com.example.kaitlynanderson.coordinatorlayoutbehavior.CustomBottomSheetBehavior">
+            app:layout_behavior="com.example.kaitlynanderson.andevcon2017.CustomBottomSheetBehavior">
         <TextView
                 android:id="@+id/text_sheet_state"
                 android:layout_gravity="center_horizontal"
